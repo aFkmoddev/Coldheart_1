@@ -1,0 +1,7 @@
+requests
+tqdm
+pycryptodome
+urllib3
+mutagen
+gtts
+pillow
